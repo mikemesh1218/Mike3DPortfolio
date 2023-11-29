@@ -8,7 +8,7 @@ import Contact from "./pages/Contact"
 function App() {
   
   return (
-   <main className="bg-slate-300/20">
+   <main>
     <Router>
       <Navbar/> 
       <Routes>
